@@ -1,0 +1,10 @@
+tree 771ceaf0886fd46e0edb1a3181fc66aedf10d8d7
+parent d45c1aad7c267247526ef73d0f9d265c24d68711
+author best-PC <kusejiubei@sina.com> 1443493793 +0800
+committer best-PC <kusejiubei@sina.com> 1443493793 +0800
+
+new version 20150929
+
+
+------------------------------------
+37d5e766f5d2a161b919966d48b29f632a6c5f17(master->commit快照，commit对象记录提交信息)

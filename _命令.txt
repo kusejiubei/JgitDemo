@@ -1,0 +1,13 @@
+$ find .git/objects -type f
+
+$ echo 'version 1' > test.txt
+$ git hash-object -w test.txt
+83baae61804e65cc73a7201a7252750c76066a30
+
+$ git cat-file -p 37d5e766f5d2a161b919966d48b29f632a6c5f17 > test_.txt
+$ cat test.txt
+version 2
+
+
+$ git update-ref refs/tags/v1.0 cac0cab538b970a37ea1e769cbbde608743bc96d £¨tag£©
+ 

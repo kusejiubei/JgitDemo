@@ -1,0 +1,6 @@
+d45c1aad7c267247526ef73d0f9d265c24d68711
+
+
+-----------------------------
+（tag 标签 ，Tag 有两种类型：annotated 和lightweight 。你可以类
+似下面这样的命令建立一个lightweight 类似master是一个引用，不修改即不变化的引用）
